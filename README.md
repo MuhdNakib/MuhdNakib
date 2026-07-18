@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhamad Nakib Bin Hamidun
 
-<!--
-**MuhdNakib/MuhdNakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bachelor of Information Science (Hons.) Information Systems Management student at Universiti Teknologi MARA (UiTM) with a strong interest in Data Analytics, Database Management, Information Systems, and Web Development.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- SQL
+- Power BI
+- Microsoft Excel
+- Git & GitHub
+
+## Current Projects
+
+- Personal Portfolio Website
+- UTM Facility Booking System
+- Power BI Dashboard
+- BloodCare Management System
+
+## Currently Learning
+
+- Data Analytics
+- Advanced SQL
+- Power BI
+- Web Development
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/muhamad-nakib
+- Email: hamidunnakib@gmail.com
+
+Thanks for visiting my GitHub profile!
